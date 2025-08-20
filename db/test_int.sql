@@ -1,3 +1,6 @@
+-- Buat query 
+-- 'tampilkan semua inventory yang memiliki satuan m (meter) dan currency-nya IDR yang memiliki low stock <3'
+
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
 SET time_zone = "+00:00";
