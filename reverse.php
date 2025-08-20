@@ -9,7 +9,7 @@ Output: "PRE"
 <?php
 function reverseString($text)
 {
-    // Tulis logika pembalikan string di sini
+    
 }
 
 echo reverseString('ERP'); // Output: PRE
